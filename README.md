@@ -1,7 +1,16 @@
 ### Halo Semua 👋
 
-Perkenalkan nama saya **Gerry Geraldi Latupeirissa**.\
-Saat ini saya sedang menekuni kelas **Front End web Back-End Development** yang diadakan oleh [Dicoding](https://www.dicoding.com/) 
+I am a student majoring in information technology who is very passionate about learning about Front End and Back End Web Development
 
-Saat ini saya juga membangun tim satrtup bersama teman saya ada Samuel, Amel, dan Ayut yaitu Aplikasi MariKost.\
-Hobi yang saya sangat biasa saya lakukan adalah fotografi dan harapan saya dengan hobi dan minat yang saya tekuni saya berhara dapat menciptakan suatu projek yang sangat bermanfaat buat masyarakat kedepannya.\ 
+
+- 🔭 I am now a student at Undiknas Denpasar
+- 🌱 I’m currently learning about front end and back end Development 
+- 📫 How to reach me: whateveritakes10@gmail.com
+- ⚡ Fun fact: have a hobby of photographer
+
+    <p align="left">
+    <a href="https://github.com/Gerry-Geraldy">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gerry-Geraldy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gerry-Geraldy&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+    </p>
