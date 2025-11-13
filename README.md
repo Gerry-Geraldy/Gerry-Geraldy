@@ -41,7 +41,7 @@ Currently, I’m also exploring **Back-End Development** to become a more comple
 
 ### 🌐 Let's Connect  
 <p align="left">
-  <a href="https://www.linkedin.com/in/gerry-geraldy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://https://www.linkedin.com/in/gerry-geraldy-latupeirissa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:whateveritakes10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Gerry-Geraldy"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
