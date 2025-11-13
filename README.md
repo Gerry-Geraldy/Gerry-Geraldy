@@ -6,8 +6,8 @@
 ---
 
 ### 🚀 About Me  
-I’m a passionate **Front-End Developer** with a focus on creating **modern, responsive, and accessible web applications**.  
-Currently, I’m also exploring **Back-End Development** to become a more complete full-stack engineer.  
+I’m a passionate **Front-End Developer** focused on creating **modern, responsive, and accessible web applications**.  
+Currently, I’m also learning **Back-End Development** to become a more complete full-stack engineer.  
 
 - 🌱 Currently learning: **Next.js, RESTful APIs, and Node.js**
 - 💡 Experienced with: **React.js, Tailwind CSS, Axios, Redux, and Material Tailwind**
@@ -41,7 +41,7 @@ Currently, I’m also exploring **Back-End Development** to become a more comple
 
 ### 🌐 Let's Connect  
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/gerry-geraldy-latupeirissa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gerry-geraldy-latupeirissa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:whateveritakes10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Gerry-Geraldy"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
